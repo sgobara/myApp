@@ -2,7 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 ReactDOM.render(
-  <h1>Hello World!</h1>,
+  <div> 
+    <h1>Hello World!</h1>
+    <p>This is to test my understanding.</p>
+    <p>Adding more things to test.</p>
+  </div>,
 
   document.getElementById("root")
 )
